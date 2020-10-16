@@ -3,13 +3,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-main{
-  /* margin-left: 600px; */
-}
-button {
-  text-align: center;
-  color: white;
-}
 .title {
   color: white;
 }
@@ -32,8 +25,10 @@ button {
     outline: none;
     cursor: pointer;
     padding: 14px 16px;
-    margin-bottom: 30px;
+    margin: 30px;
     font-size: 17px;
+    text-align: center;
+    color: white;
   }
 .dropbtn {
   color: white;
@@ -53,7 +48,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -64,7 +59,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -75,7 +70,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: center;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -86,7 +81,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -97,7 +92,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -108,7 +103,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -119,7 +114,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -130,7 +125,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -141,7 +136,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -153,7 +148,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
@@ -164,7 +159,7 @@ button {
   border: 30px solid white;
   margin: 40px;
   position: relative;
-  width: 700px;
+  width: auto;
   height: 500px;
   text-align: center;
   transition: transform 0.8s;
