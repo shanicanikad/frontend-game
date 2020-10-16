@@ -1,1 +1,367 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/72/44/ac/7244ac665c8d95f1d67cae3e198ea70e.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main{
+  /* margin-left: 600px; */
+}
+button {
+  text-align: center;
+  color: white;
+}
+.title {
+  color: white;
+}
 
+p {
+  color: white;
+}
+header{
+  background:brown;
+  color: white;
+  padding: 40px;
+  font-size: 40px;
+}
+h1{
+  color: white;
+}
+button {
+    background-color:brown ;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    margin-bottom: 30px;
+    font-size: 17px;
+  }
+.dropbtn {
+  color: white;
+}
+.dropdown-content {
+  text-align: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: white;
+  }
+
+.flashcardInside{
+  align-items: center;
+}  
+
+.firstPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.secondPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.thirdPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: center;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.fourthPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.fifthPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.sixthPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.seventhPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.eighthPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.ninthPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+
+.tenthPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.eleventhPage{
+  border: 30px solid white;
+  margin: 40px;
+  position: relative;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.firstPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.secondPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.thirdPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.fourthPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.fifthPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.sixthPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.seventhPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.eighthPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.ninthPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.tenthPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.eleventhPage-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flashcardInside:hover .firstPage{
+  transform: rotateY(180deg);
+}
+
+.flashcardInside:hover .secondPage{
+  transform: rotateY(180deg);
+}
+
+.flashcardInside:hover .thirdPage{
+  transform: rotateY(180deg);
+}
+
+.flashcardInside:hover .fourthPage{
+  transform: rotateY(180deg);
+}
+
+
+.flashcardInside:hover .fifthPage{
+  transform: rotateY(180deg);
+}
+
+
+.flashcardInside:hover .sixthPage{
+  transform: rotateY(180deg);
+}
+
+
+.flashcardInside:hover .seventhPage{
+  transform: rotateY(180deg);
+}
+
+
+.flashcardInside:hover .eighthPage{
+  transform: rotateY(180deg);
+}
+
+
+.flashcardInside:hover .ninthPage{
+  transform: rotateY(180deg);
+}
+
+
+.flashcardInside:hover .tenthPage{
+  transform: rotateY(180deg);
+}
+
+.flashcardInside:hover .eleventhPage{
+  transform: rotateY(180deg);
+}
+
+.front, .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.front {
+  background-color: #bbb;
+  color: black;
+  text-align: center;
+  font-size: 40px
+}
+
+.back {
+  background-color: #555;
+  color: white;
+  transform: rotateY(180deg);
+  text-align: center;
+  font-size: 25px
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  padding: 30px 0px
+}
+.friends {
+  height: 250px; 
+  width: 400px;
+}
+.titans {
+  height: 300px;
+  width: 400px;
+}
+.titan1 {
+  height: 300px;
+  width: 400px;
+}
+.erenTitan {
+  height: 400px
+}
+.shock{
+  width: 400px;
+}
+.annieL {
+  height: 200px;
+  width: 400px
+}
+.fight {
+  height: 350px;
+}
+.firstPage {
+  text-align: left;
+}
